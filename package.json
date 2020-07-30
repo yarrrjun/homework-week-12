@@ -15,5 +15,13 @@
     "inquirer": "^7.0.4",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarrrjun/homework-week-12.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yarrrjun/homework-week-12/issues"
+  },
+  "homepage": "https://github.com/yarrrjun/homework-week-12#readme"
 }
